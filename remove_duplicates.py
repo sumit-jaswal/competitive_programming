@@ -1,4 +1,6 @@
 # Program to remove duplicates from a sorted array 
+# Input  : [1, 1, 2, 2, 3, 7, 9, 23, 34, 67, 67, 78, 81, 89, 90, 90, 92, 95, 100, 100, 100]
+# Output : [1, 2, 3, 7, 9, 23, 34, 67, 78, 81, 89, 90, 92, 95, 100]
 
 duplicates = [1,1,2,2,3,7,9,23,34,67,67,78,81,89,90,90,92,95,100,100,100]
 print(duplicates, len(duplicates))
