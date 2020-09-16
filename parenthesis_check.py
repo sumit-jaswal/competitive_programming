@@ -1,6 +1,6 @@
 # Checking whether parenthesis are balanced or not.
-# Input  : {{{)))[]
-# Output : False
+# Input  : {{{))}(((}})[]
+# Output : True
 
 class Solution:
 	def isValid(self,s):
